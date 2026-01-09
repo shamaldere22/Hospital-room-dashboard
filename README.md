@@ -24,4 +24,5 @@ The goal of this project is to demonstrate how data visualization and analytics 
 - 🔍 Drill-through Reports for detailed patient-level insights
 - 🎯 Actionable Insights to improve hospital management and emergency response
   
-
+Demo:
+https://github.com/shamaldere22/Hospital-room-dashboard/blob/main/Hospital%20Dashboard.mp4
